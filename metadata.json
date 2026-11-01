@@ -1,0 +1,8 @@
+{
+  "name": "OmniPost - Cross-Platform Social Media Studio",
+  "description": "AI-powered cross-platform social media content generator with tailored LinkedIn, X/Twitter, and Instagram posts, customizable tones, and platform-optimized studio images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
